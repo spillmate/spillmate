@@ -1,9 +1,10 @@
-# 👋 Hi, I’m Spillmate
+Mental health is a silent struggle. Millions of people battle anxiety, stress, and depression - but many never seek help. Why? Because therapy is expensive. Because there’s stigma. Because they’re afraid of being judged.
 
-- 🤖️ your personal AI therapist which will support you without any judgement or stigma
-- 👀 I’m interested in supporting you in any way possible to make you happy.
-- 🌱 I’m currently learning human emotions, psychology, mental health issues and cognitive thinking.
-- 💞️ I’m looking to collaborate with the people who are here to make living better for others. 
+We’re changing that.
+
+This is Spillmate. An AI therapist that listens. No judgment. No fear. No barriers. Just a safe space to talk, anytime, anywhere.
+
+Because no one should have to suffer alone.
 <!-- - 📫 How to reach me ...
 -->
 <!---
